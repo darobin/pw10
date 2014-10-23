@@ -10,4 +10,4 @@ Par ordre alphabétique de prénom
 
 ## À contacter
 
-* blah
+* Eric Bréchemier
